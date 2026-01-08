@@ -1,5 +1,5 @@
 ---
-title: test page 02
+title: page 02
 draft: false
 tags:
   - test_page
