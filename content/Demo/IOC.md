@@ -13,3 +13,19 @@ This page is currently being used as an example of how we can internally link to
 ## IOC
 
 The Infrastructure Operations Center is a 24/7 monitoring and troubleshooting team that is responsible for ensuring vital UM IT services are running at all times across the University of Michigan.
+
+---
+<script src="https://giscus.app/client.js"
+        data-repo="richdrob/Test_Knowledge_Base"
+        data-repo-id="R_kgDOQ1r6XQ"
+        data-category-id="DIC_kwDOQ1r6Xc4C0tJf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

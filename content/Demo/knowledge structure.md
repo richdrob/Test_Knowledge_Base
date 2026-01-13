@@ -55,4 +55,18 @@ We have included a [canvas](https://obsidian.md/canvas) in the `content` folder 
 
 This is by no means the final form of this system.  We want to hear from you on how this system could work better for everyone, or specific things from the previous website that would need to be included in our new site.
 
-
+---
+<script src="https://giscus.app/client.js"
+        data-repo="richdrob/Test_Knowledge_Base"
+        data-repo-id="R_kgDOQ1r6XQ"
+        data-category-id="DIC_kwDOQ1r6Xc4C0tJf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
