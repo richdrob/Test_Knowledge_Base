@@ -21,3 +21,19 @@ It will also be possible to embed our current turnover sheet to this site, makin
 
 > [!info]
 > We are also looking into a process of creating an RSS feed for this website.  This could potentially be used in conjunction with the turnover doc to give us a live feed of any changes being made both to the website, but to any changes made to turnover.
+
+---
+<script src="https://giscus.app/client.js"
+        data-repo="richdrob/Test_Knowledge_Base"
+        data-repo-id="R_kgDOQ1r6XQ"
+        data-category-id="DIC_kwDOQ1r6Xc4C0tJf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -1,6 +1,6 @@
 ---
 title: page 02
-draft: false
+draft: true
 tags:
   - test_page
 ---

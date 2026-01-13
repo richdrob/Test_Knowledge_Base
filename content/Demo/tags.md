@@ -20,3 +20,18 @@ Being able to find information quickly is critical for IOC staff members.  thank
 > [!example]-
 > We will likely divide our knowledge into separate folders for Voice over IP devices and access layer switches because they both have a different service owner.  However both generate alarms in #spectrum .  If we apply the #spectrum tag to each individual note related to a spectrum alarm, we could search our site using `#spectrum <alarm name>` instead of individually searching through a rigid folder structure.
 
+---
+<script src="https://giscus.app/client.js"
+        data-repo="richdrob/Test_Knowledge_Base"
+        data-repo-id="R_kgDOQ1r6XQ"
+        data-category-id="DIC_kwDOQ1r6Xc4C0tJf"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
