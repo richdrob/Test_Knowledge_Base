@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://richdrob.github.io/Test_Knowledge_Base/",
+    baseUrl: "richdrob.github.io/Test_Knowledge_Base/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -88,6 +88,7 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
+//
            Plugin.CustomOgImages({colorScheme: "darkMode",}),
     ],
   },
