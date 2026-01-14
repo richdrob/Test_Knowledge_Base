@@ -16,7 +16,7 @@ Current Progress for the Site Prototype:
 - [x] Configure GitHub Repository for SSH sync using NPM
 - [x] Host site locally to confirm configuration
 - [x] Sync site changes to the GitHub repo
-- [ ] Create Demo Documents for the site
+- [x] Create Demo Documents for the site
 - [ ] Receive feedback from IOC Manager and Staff
 - [ ] Finalize configuration changes
 
